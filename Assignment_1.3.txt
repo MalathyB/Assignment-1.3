@@ -1,0 +1,31 @@
+
+1. pwd
+   - prints the current working directory
+2. vi
+   - vi is a visual text editor
+3. touch
+   - Touch changes file timestamps
+4. mkdir
+   - Make directory used to create directories on a file system
+5. rm
+   - Removes files or directories
+6. ls
+   - Lists the contents of a directory
+7. echo
+   - Displays a line of text
+8. cat
+   - It reads data from files and outputs their contents
+9. who
+   - Displays who is logged on to the system
+10. cd
+    - Change directory changes the shell's current working directory.
+11. date
+    - Used to print or change the system's time and date
+12. cal
+    - Display a calendar from the command line
+13. mv
+    - Used to move or rename files
+14. cp
+    -  Used to make copies of files and directories
+15. which
+    - Locate the executable file associated with a given command
